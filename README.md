@@ -1,17 +1,17 @@
-## Welcome to GitHub Pages
+## I love chocolate ice cream!
 
-You can use the [editor on GitHub](https://github.com/jjstnlee/chocolateicecream/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Chocolate ice cream is so yummy. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have an intense desire for chocolate ice cream because it is so delicious.
 
-### Markdown
+### My favourite brand of chocolate ice cream.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My favourite brand is Haagen-Dazs
 
 ```markdown
-Syntax highlighted code block
+Haagen Dazs Chocolate Ice Cream
 
-# Header 1 Hola Como Estas
+# Header 1
 ## Header 2
 ### Header 3
 
