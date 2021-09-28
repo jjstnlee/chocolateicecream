@@ -4,7 +4,7 @@ Chocolate ice cream is so yummy.
 
 I have an intense desire for chocolate ice cream because it is so delicious.
 
-### My favourite brand of chocolate ice cream.
+## My favourite brand of chocolate ice cream.
 My favourite brand is Haagen-Dazs.
 
 ## Haagen Dazs Chocolate Ice Cream
