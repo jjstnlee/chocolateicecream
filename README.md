@@ -10,10 +10,10 @@ My favourite brand is Haagen-Dazs
 
 ```markdown
 Haagen Dazs Chocolate Ice Cream
-
+![img](https://www.haagendazs.us/sites/site.prod1.haagendazs.us/files/product/package-image/Chocolate-pckg-sept-2019.png)
 
 ```
-![img](https://www.haagendazs.us/sites/site.prod1.haagendazs.us/files/product/package-image/Chocolate-pckg-sept-2019.png)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
