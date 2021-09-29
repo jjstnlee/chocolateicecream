@@ -23,4 +23,4 @@ These are the flavours they have.
 
 ![img](https://user-images.githubusercontent.com/91563628/135329355-393120c4-715c-4626-8440-f05fd0bb6f48.png)
 
-This is their website: https://www.solvangtrolley.com/ice-cream-parlor-1
+This is their website: https://www.solvangtrolley.com/
