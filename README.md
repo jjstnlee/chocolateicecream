@@ -5,7 +5,7 @@ Chocolate ice cream is so yummy. I have an insatiable desire for chocolate ice c
 ## My favourite brand of chocolate ice cream.
 My favourite store-bought brand is Haagen-Dazs.
 
-## Haagen Dazs Chocolate Ice Cream
+### Haagen Dazs Chocolate Ice Cream
 
 ![img](https://www.haagendazs.us/sites/site.prod1.haagendazs.us/files/product/package-image/Chocolate-pckg-sept-2019.png)
 
