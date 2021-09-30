@@ -1,8 +1,6 @@
 ## I love chocolate ice cream!
 
-Chocolate ice cream is so yummy. 
-
-I have an insatiable desire for chocolate ice cream because it is so delicious.
+Chocolate ice cream is so yummy. I have an insatiable desire for chocolate ice cream because it is so delicious.
 
 ## My favourite brand of chocolate ice cream.
 My favourite store-bought brand is Haagen-Dazs.
@@ -23,4 +21,4 @@ These are the flavours they have.
 
 ![img](https://user-images.githubusercontent.com/91563628/135329355-393120c4-715c-4626-8440-f05fd0bb6f48.png)
 
-This is their website: https://www.solvangtrolley.com/
+This is their website: <https://www.solvangtrolley.com/>
